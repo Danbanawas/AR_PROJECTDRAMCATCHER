@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/arDREAMCATCHER.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dcb40131e389418418b770a5a3957a9f, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 15c7d0b444307b6458051d0d100dbd0b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 22db53b50a365ef4eb9fd9fa9040b1f9, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 9385f178e081978499f3aec43a4ebc16, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 11a6b0b9a74451d4bafa2bf387e0c589, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bb3bd34101364714abb92ff63f6f0237, type: 2}
